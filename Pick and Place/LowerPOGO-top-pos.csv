@@ -23,4 +23,3 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "J22","Conn_01x01_MountingPin","PinHeader_1x01_D2.54mm_Vertical",196.500000,-138.500000,0.000000,top
 "J23","Conn_01x01_MountingPin","PinHeader_1x01_D2.54mm_Vertical",196.500000,-129.500000,0.000000,top
 "J24","Conn_01x01_MountingPin","PinHeader_1x01_D2.54mm_Vertical",195.500000,-119.500000,0.000000,top
-"J25","Conn_01x24_Pin","PinSocket_2x12_P2.54mm_Horizontal",144.600000,-91.700000,0.000000,top
