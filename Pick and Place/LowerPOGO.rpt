@@ -1,5 +1,5 @@
-## Footprint report - date 2024-06-21T15:27:13-0400
-## Created by KiCad version 8.0.3
+## Footprint report - date 2024-09-10T22:04:40-0400
+## Created by KiCad version 8.0.4
 ## Unit = mm, Angle = deg.
 
 $BeginDESCRIPTION
@@ -62,7 +62,7 @@ $EndMODULE  H2
 $MODULE H3
 footprint MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom
 attribut virtual
-position 123.500000 154.500000  orientation 0.00
+position 93.250000 154.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -112,7 +112,7 @@ $EndMODULE  H4
 $MODULE J1
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 95.000000 126.500000  orientation 0.00
+position 98.000000 144.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -125,7 +125,7 @@ $EndMODULE  J1
 $MODULE J2
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 95.000000 135.500000  orientation 0.00
+position 99.000000 154.000000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -138,7 +138,7 @@ $EndMODULE  J2
 $MODULE J3
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 95.000000 144.500000  orientation 0.00
+position 124.000000 138.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -151,7 +151,7 @@ $EndMODULE  J3
 $MODULE J4
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 96.000000 154.000000  orientation 0.00
+position 124.000000 147.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -164,7 +164,7 @@ $EndMODULE  J4
 $MODULE J5
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 120.000000 119.500000  orientation 0.00
+position 136.250000 154.000000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -177,7 +177,7 @@ $EndMODULE  J5
 $MODULE J6
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 120.500000 129.500000  orientation 0.00
+position 135.250000 144.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -190,7 +190,7 @@ $EndMODULE  J6
 $MODULE J7
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 133.000000 126.500000  orientation 0.00
+position 161.750000 147.000000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -203,7 +203,7 @@ $EndMODULE  J7
 $MODULE J8
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 120.500000 138.500000  orientation 0.00
+position 161.750000 138.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -216,7 +216,7 @@ $EndMODULE  J8
 $MODULE J9
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 133.000000 135.500000  orientation 0.00
+position 174.000000 154.000000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -229,7 +229,7 @@ $EndMODULE  J9
 $MODULE J10
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 120.500000 147.500000  orientation 0.00
+position 173.000000 144.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -242,7 +242,7 @@ $EndMODULE  J10
 $MODULE J11
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 133.000000 144.500000  orientation 0.00
+position 199.500000 138.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -255,7 +255,7 @@ $EndMODULE  J11
 $MODULE J12
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 134.000000 154.000000  orientation 0.00
+position 199.500000 147.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -268,7 +268,7 @@ $EndMODULE  J12
 $MODULE J13
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 172.000000 154.000000  orientation 0.00
+position 135.250000 126.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -281,7 +281,7 @@ $EndMODULE  J13
 $MODULE J14
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 171.000000 144.500000  orientation 0.00
+position 135.250000 135.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -294,7 +294,7 @@ $EndMODULE  J14
 $MODULE J15
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 158.500000 147.000000  orientation 0.00
+position 124.000000 129.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -307,7 +307,7 @@ $EndMODULE  J15
 $MODULE J16
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 158.500000 138.500000  orientation 0.00
+position 123.500000 119.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -320,7 +320,7 @@ $EndMODULE  J16
 $MODULE J17
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 158.500000 129.500000  orientation 0.00
+position 98.000000 135.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -333,7 +333,7 @@ $EndMODULE  J17
 $MODULE J18
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 171.000000 135.500000  orientation 0.00
+position 98.000000 126.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -346,7 +346,7 @@ $EndMODULE  J18
 $MODULE J19
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 158.000000 119.500000  orientation 0.00
+position 198.500000 119.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -359,7 +359,7 @@ $EndMODULE  J19
 $MODULE J20
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 171.000000 126.500000  orientation 0.00
+position 199.500000 129.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -372,7 +372,7 @@ $EndMODULE  J20
 $MODULE J21
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 196.500000 147.500000  orientation 0.00
+position 173.000000 126.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -385,7 +385,7 @@ $EndMODULE  J21
 $MODULE J22
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 196.500000 138.500000  orientation 0.00
+position 173.000000 135.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -398,7 +398,7 @@ $EndMODULE  J22
 $MODULE J23
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 196.500000 129.500000  orientation 0.00
+position 161.750000 129.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -411,7 +411,7 @@ $EndMODULE  J23
 $MODULE J24
 footprint Connector_PinHeader_2.54mm:PinHeader_1x01_D2.54mm_Vertical_PogoPin
 attribut none
-position 195.500000 119.500000  orientation 0.00
+position 161.250000 119.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -424,149 +424,149 @@ $EndMODULE  J24
 $MODULE J25
 footprint Connector_PinSocket_2.54mm:PinSocket_2x12_P2.54mm_Horizontal
 attribut none
-position 143.760000 91.700000  orientation 180.00
+position 146.550000 91.700000  orientation 180.00
 layer back
 $PAD "1"
-Shape Oval Layer both
-position 13.550000 -11.010000  size  1.700000  1.700000  orientation 90.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD "2"
-Shape Oval Layer both
-position 11.010000 -11.010000  size  1.700000  1.700000  orientation 90.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD "3"
-Shape Oval Layer both
-position  8.470000 -11.010000  size  1.700000  1.700000  orientation 90.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD "4"
-Shape Oval Layer both
-position  5.930000 -11.010000  size  1.700000  1.700000  orientation 90.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD "5"
-Shape Oval Layer both
-position  3.390000 -11.010000  size  1.700000  1.700000  orientation 90.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD "6"
-Shape Oval Layer both
-position  0.850000 -11.010000  size  1.700000  1.700000  orientation 90.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD "7"
-Shape Oval Layer both
-position -1.690000 -11.010000  size  1.700000  1.700000  orientation 90.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD "8"
-Shape Oval Layer both
-position -4.230000 -11.010000  size  1.700000  1.700000  orientation 90.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD "9"
-Shape Oval Layer both
-position -6.770000 -11.010000  size  1.700000  1.700000  orientation 90.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD "10"
-Shape Oval Layer both
-position -9.310000 -11.010000  size  1.700000  1.700000  orientation 90.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD "11"
-Shape Oval Layer both
-position -11.850000 -11.010000  size  1.700000  1.700000  orientation 90.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD "12"
-Shape Oval Layer both
-position -14.390000 -11.010000  size  1.700000  1.700000  orientation 90.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD "13"
 Shape Rect Layer both
 position 13.550000 -13.550000  size  1.700000  1.700000  orientation 90.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
-$PAD "14"
+$PAD "2"
 Shape Oval Layer both
 position 11.010000 -13.550000  size  1.700000  1.700000  orientation 90.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
-$PAD "15"
+$PAD "3"
 Shape Oval Layer both
 position  8.470000 -13.550000  size  1.700000  1.700000  orientation 90.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
-$PAD "16"
+$PAD "4"
 Shape Oval Layer both
 position  5.930000 -13.550000  size  1.700000  1.700000  orientation 90.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
-$PAD "17"
+$PAD "5"
 Shape Oval Layer both
 position  3.390000 -13.550000  size  1.700000  1.700000  orientation 90.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
-$PAD "18"
+$PAD "6"
 Shape Oval Layer both
 position  0.850000 -13.550000  size  1.700000  1.700000  orientation 90.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
-$PAD "19"
+$PAD "7"
 Shape Oval Layer both
 position -1.690000 -13.550000  size  1.700000  1.700000  orientation 90.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
-$PAD "20"
+$PAD "8"
 Shape Oval Layer both
 position -4.230000 -13.550000  size  1.700000  1.700000  orientation 90.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
-$PAD "21"
+$PAD "9"
 Shape Oval Layer both
 position -6.770000 -13.550000  size  1.700000  1.700000  orientation 90.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
-$PAD "22"
+$PAD "10"
 Shape Oval Layer both
 position -9.310000 -13.550000  size  1.700000  1.700000  orientation 90.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
-$PAD "23"
+$PAD "11"
 Shape Oval Layer both
 position -11.850000 -13.550000  size  1.700000  1.700000  orientation 90.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
-$PAD "24"
+$PAD "12"
 Shape Oval Layer both
 position -14.390000 -13.550000  size  1.700000  1.700000  orientation 90.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Oval Layer both
+position 13.550000 -11.010000  size  1.700000  1.700000  orientation 90.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Oval Layer both
+position 11.010000 -11.010000  size  1.700000  1.700000  orientation 90.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "15"
+Shape Oval Layer both
+position  8.470000 -11.010000  size  1.700000  1.700000  orientation 90.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "16"
+Shape Oval Layer both
+position  5.930000 -11.010000  size  1.700000  1.700000  orientation 90.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "17"
+Shape Oval Layer both
+position  3.390000 -11.010000  size  1.700000  1.700000  orientation 90.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "18"
+Shape Oval Layer both
+position  0.850000 -11.010000  size  1.700000  1.700000  orientation 90.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "19"
+Shape Oval Layer both
+position -1.690000 -11.010000  size  1.700000  1.700000  orientation 90.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "20"
+Shape Oval Layer both
+position -4.230000 -11.010000  size  1.700000  1.700000  orientation 90.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "21"
+Shape Oval Layer both
+position -6.770000 -11.010000  size  1.700000  1.700000  orientation 90.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "22"
+Shape Oval Layer both
+position -9.310000 -11.010000  size  1.700000  1.700000  orientation 90.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "23"
+Shape Oval Layer both
+position -11.850000 -11.010000  size  1.700000  1.700000  orientation 90.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "24"
+Shape Oval Layer both
+position -14.390000 -11.010000  size  1.700000  1.700000  orientation 90.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
